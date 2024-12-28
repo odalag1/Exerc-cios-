@@ -1,0 +1,67 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "principal",
+            "request": "launch",
+            "mainClass": "Livro.principal",
+            "projectName": "Atvds.alura.26.12.24_dca30b63"
+        },
+        {
+            "type": "java",
+            "name": "principal",
+            "request": "launch",
+            "mainClass": "Aluno.principal",
+            "projectName": "Atvds.alura.26.12.24_dca30b63"
+        },
+        {
+            "type": "java",
+            "name": "principal",
+            "request": "launch",
+            "mainClass": "p.principal",
+            "projectName": "Atvds.alura.26.12.24_dca30b63"
+        },
+        {
+            "type": "java",
+            "name": "Produto",
+            "request": "launch",
+            "mainClass": "Produto",
+            "projectName": "Atvds.alura.26.12.24_dca30b63"
+        },
+        {
+            "type": "java",
+            "name": "principal",
+            "request": "launch",
+            "mainClass": "idadepessoa.principal",
+            "projectName": "Atvds.alura.26.12.24_dca30b63"
+        },
+        {
+            "type": "java",
+            "name": "principal",
+            "request": "launch",
+            "mainClass": "principal",
+            "projectName": "Atvds.alura.26.12.24_dca30b63"
+        },
+        {
+            "type": "java",
+            "name": "Contabancaria",
+            "request": "launch",
+            "mainClass": "Contabancaria",
+            "projectName": "Atvds.alura.26.12.24_dca30b63"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancaria",
+            "request": "launch",
+            "mainClass": "ContaBancaria",
+            "projectName": "Atvds.alura.26.12.24_dca30b63"
+        }
+    ]
+}
